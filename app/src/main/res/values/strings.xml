@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">精彩集锦</string>
+    <string name="toast_net_error_info">网络错误</string>
+</resources>
