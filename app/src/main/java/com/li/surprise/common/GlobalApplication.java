@@ -17,7 +17,7 @@ public class GlobalApplication extends Application {
     }
 
     private void initHost(){
-        Constant.host = "http://devapi.weiwuu.net:8080/";
+        Constant.host = "";
     }
 
     public GlobalApplication() {
